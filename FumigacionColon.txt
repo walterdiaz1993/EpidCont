@@ -1,0 +1,5 @@
+COLON Iriona
+COLON Bonito Oriental
+COLON Trujillo
+COLON Santa Fe
+COLON Limón
